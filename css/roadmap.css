@@ -1,0 +1,43 @@
+@keyframes svelte-1n1bgwn-blink {
+    0% {
+        opacity: 0
+    }
+
+    50% {
+        opacity: 1
+    }
+
+    to {
+        opacity: 0
+    }
+}
+
+.changes.svelte-1n1bgwn {
+    line-height: 2.25;
+    margin-top: -.25rem;
+    width: 13rem;
+    padding-bottom: 4rem
+}
+
+@media (min-width: 640px) {
+    .changes.svelte-1n1bgwn {
+        width: 24rem
+    }
+}
+
+.date.svelte-1n1bgwn {
+    width: 6rem;
+    --tw-text-opacity: 1;
+    color: rgb(115 115 115 / var(--tw-text-opacity))
+}
+
+@media (min-width: 640px) {
+    .date.svelte-1n1bgwn {
+        width: 24rem
+    }
+}
+
+.line.svelte-1n1bgwn {
+    margin-left: -.5px;
+    border-right-width: 1px
+}
