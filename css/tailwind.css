@@ -2024,6 +2024,14 @@ select {
     min-height: 35vh;
 }
 
+.min-h-\[40vh\] {
+    min-height: 40vh;
+}
+
+.min-h-\[43vh\] {
+    min-height: 40vh;
+}
+
 .min-h-\[10vh\] {
     min-height: 10vh;
 }
