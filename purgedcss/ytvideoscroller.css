@@ -1,0 +1,16 @@
+.ytcontainer {
+    padding: 2rem;
+    height: 100px;
+
+}
+
+.ytslider-wrapper {
+    position: relative;
+    max-width: 48rem;
+    margin: 0 auto;
+}
+
+.ytslider {
+    display: flex;
+    flex-direction: column;
+}

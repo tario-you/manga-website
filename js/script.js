@@ -13,12 +13,12 @@ const popup1 = document.querySelector('#popup1');
 const about = document.querySelector('#about');
 const textcol1 = document.querySelector('.textcol1');
 
-about.addEventListener('mouseover', function () {
-    popup1.style.opacity = 1;
-    popup1.style.display = 'flex';
-    textcol1.style.color = 'rgba(255, 255, 255, 0.568)';
-    fadeIn(popup1);
-});
+// about.addEventListener('mouseover', function () {
+//     popup1.style.opacity = 1;
+//     popup1.style.display = 'flex';
+//     textcol1.style.color = 'rgba(255, 255, 255, 0.568)';
+//     fadeIn(popup1);
+// });
 
 popup1.addEventListener('mouseover', function () {
     popup1.style.opacity = 1;
