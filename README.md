@@ -1,4 +1,6 @@
-# manga-website
+# Manga Website
+
+Contribution: dedicated web designer and front-end developer
 
 Demo as of July 18:
 
