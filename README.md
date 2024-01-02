@@ -1,7 +1,7 @@
 # Manga Website
 
-Contribution: dedicated web designer and front-end developer
+Contribution: dedicated web developer
 
 Demo as of July 18:
 
-![Demo](https://github.com/tario-you/manga-website/blob/main/assets/demo2.png?raw=true)
+<img src="assets/demo_update.png" alt="Demo" width="800"/>
